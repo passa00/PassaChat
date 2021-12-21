@@ -1,0 +1,32 @@
+{
+  "expo": {
+    "name": "Passa Chat",
+    "slug": "passa_chat_app",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "bundleIdentifier": "com.passa.passaChat",
+      "buildNumber": "1.0.0"
+    },
+    "android": {
+      "package": "com.passa.passaChat",
+      "versionCode": 1
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "description": "A user-friendly chat application to communicate with people remotely."
+  }
+}

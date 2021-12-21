@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "701037669300",
+    "project_id": "passa-chat-app",
+    "storage_bucket": "passa-chat-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:701037669300:android:d7ac86a89d4d2f70d1a0e1",
+        "android_client_info": {
+          "package_name": "com.passa_chat_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "701037669300-bku51u3emkteataanfngo8vjv96vdvs5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBeL02PtUHLymVkRtela6ocT_7MPyzy3kY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "701037669300-bku51u3emkteataanfngo8vjv96vdvs5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
